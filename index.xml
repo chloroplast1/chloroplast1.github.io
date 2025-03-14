@@ -20,6 +20,6 @@
 &lt;p>3.然后去这个路径下面找到对应的代码
 &lt;code>D:\Program Files\Typora\resources\locales\zh-Hans.lproj&lt;/code>
 打开&lt;code>json&lt;/code>文件，将&lt;code>&amp;quot;UNREGISTERED&amp;quot;:&amp;quot;未激活&amp;quot;&lt;/code>替换为&lt;code>&amp;quot;UNREGISTERED&amp;quot;:&amp;quot; &amp;quot;&lt;/code>&lt;/p>
-&lt;p>4.再次打开Typroa就可以直接使用了
-5.ps：如果提示的有报错，我们只需要点击&lt;code>Learn Data Recovery&lt;/code>就行，这样会跳出一个页面，关掉跳出页面，后面我们就可以正常使用typora了。
+&lt;p>4.再次打开Typroa就可以直接使用了&lt;/p>
+&lt;p>5.ps：如果提示的有报错，我们只需要点击&lt;code>Learn Data Recovery&lt;/code>就行，这样会跳出一个页面，关掉跳出页面，后面我们就可以正常使用typora了。
 &lt;img src="image-6.png" alt="alt text">&lt;/p></description></item></channel></rss>
